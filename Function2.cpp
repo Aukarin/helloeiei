@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include<iomanip>
+
 using namespace std;
 int update_balance(string, float, float &balance);
 int main()
